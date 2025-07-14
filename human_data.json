@@ -1,0 +1,104 @@
+{
+    "user_id": "user_5678",
+    "name": "Ravi Sharma",
+    "location": "Bangalore, India",
+    "review_tone": "honest, detail-oriented, prefers practicality over hype",
+    "decision_style": "value-focused, compares before buying",
+    "categories": {
+        "Electronics": {
+            "preferred_brands": ["Samsung", "OnePlus", "Sony", "Motorola"],
+            "disliked_brands": ["Xiaomi", "Realme"],
+            "budget_range": {"min": 15000, "max": 40000},
+            "liked_features": [
+                "AMOLED display",
+                "fast charging",
+                "good camera performance (esp. low light)",
+                "clean UI (OxygenOS, Stock Android)",
+                "5G support"
+            ],
+            "disliked_features": [
+                "bloatware",
+                "MIUI interface",
+                "poor battery backup",
+                "heating issues"
+            ],
+            "past_purchases": [
+                {
+                    "product": "OnePlus Nord 2",
+                    "review": "Smooth UI, good camera, a bit weak on battery.",
+                    "rating": 4.0
+                },
+                {
+                    "product": "Samsung Galaxy Buds 2",
+                    "review": "Great ANC and comfort. Switching devices could be smoother.",
+                    "rating": 4.5
+                },
+                {
+                    "product": "Redmi Note 10",
+                    "review": "Nice display, but MIUI ads were unbearable. Slowed down over time.",
+                    "rating": 2.5
+                }
+            ],
+            "browsing_history": [
+                "Motorola Edge 40",
+                "Samsung M14 5G",
+                "Sony WH-CH720N Headphones"
+            ]
+        },
+        "Clothes": {
+            "preferred_styles": ["Casual", "Semi-formal", "Athleisure"],
+            "preferred_brands": ["Zara", "H&M", "Nike"],
+            "disliked_materials": ["Polyester-heavy clothes"],
+            "fit_preference": "Slim Fit",
+            "color_preference": ["Black", "Navy Blue", "White"],
+            "past_purchases": [
+                {
+                    "product": "Zara Slim Fit Chinos",
+                    "review": "Perfect fit and great fabric for Bangalore weather.",
+                    "rating": 4.5
+                },
+                {
+                    "product": "Nike Dri-FIT T-shirt",
+                    "review": "Comfortable during workouts. Good sweat management.",
+                    "rating": 5.0
+                }
+            ],
+            "browsing_history": [
+                "H&M Cotton Shirts",
+                "Under Armour Joggers",
+                "Uniqlo Airism T-Shirts"
+            ]
+        },
+        "Food": {
+            "diet_preference": "Vegetarian",
+            "preferred_cuisines": ["Indian", "Italian", "Asian-fusion"],
+            "disliked_items": ["Too spicy snacks", "Artificially sweetened drinks"],
+            "likes": ["Organic ingredients", "High protein snacks", "Ready-to-eat meals"],
+            "past_orders": [
+                {
+                    "product": "Yoga Bar Protein Bar - Almond Fudge",
+                    "review": "Tastes great and fills you up. Could be less sweet.",
+                    "rating": 4.2
+                },
+                {
+                    "product": "Fresho Paneer",
+                    "review": "Very fresh, soft, and good for curries.",
+                    "rating": 4.8
+                },
+                {
+                    "product": "Paper Boat Aam Panna",
+                    "review": "Refreshing but a little too sweet for my taste.",
+                    "rating": 3.5
+                }
+            ],
+            "grocery_preferences": ["Fruits", "Dairy", "Healthy Snacks"],
+            "browsing_history": [
+                "Organic India Tulsi Tea",
+                "Amul Paneer",
+                "Millet Pasta"
+            ]
+        }
+    }
+}
+
+
