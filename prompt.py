@@ -1,4 +1,4 @@
-# --- classifier_prompt.py ---
+# --- prompt.py ---
 import json
 from typing import Dict, Any, List
 

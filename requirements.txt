@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+pandas
+undetected-chromedriver
+selenium
+fake-useragent
+requests
+beautifulsoup4
+groq
+pyyaml

@@ -1,4 +1,4 @@
-# driver_manager.py
+# --- driver_manager.py ---
 import undetected_chromedriver as uc
 from fake_useragent import UserAgent
 from logger_util import setup_logger
